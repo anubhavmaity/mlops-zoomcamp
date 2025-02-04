@@ -1,0 +1,2 @@
+Spin Up UI Server: mlflow ui --backend-store-uri sqlite:///mlflow.db
+Permanently delete experiment: mlflow gc --backend-store-uri sqlite:///mlflow.db --experiment-ids 1
