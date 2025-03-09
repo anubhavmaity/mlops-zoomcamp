@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02_experiment_tracking/homework/mlruns/938879554720967303/e74c3216256b41d08b1410600f1fb67f/artifacts
+end_time: 1741474928005
+entry_point_name: ''
+experiment_id: '938879554720967303'
+lifecycle_stage: active
+run_id: e74c3216256b41d08b1410600f1fb67f
+run_name: xgboost_train_2025-03-08_23-01-48
+run_uuid: e74c3216256b41d08b1410600f1fb67f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741474909184
+status: 3
+tags: []
+user_id: codespace

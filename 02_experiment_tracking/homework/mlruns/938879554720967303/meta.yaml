@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops-zoomcamp/02_experiment_tracking/homework/mlruns/938879554720967303
+creation_time: 1741474908648
+experiment_id: '938879554720967303'
+last_update_time: 1741474908648
+lifecycle_stage: active
+name: mlflow-homework
